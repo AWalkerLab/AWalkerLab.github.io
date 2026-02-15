@@ -18,13 +18,20 @@
     "href": "courses.html",
     "title": "Courses taught at GW",
     "section": "",
-    "text": "Fall 2025\nSyllabus\nPDFs/Syllabus-DATS2103-Fall2025.pdf"
+    "text": "DATS1001. Data Science for All. 3 Credits\nCross-disciplinary perspective on topics ranging from an introduction and overview of standard data science tools through to frontier research topics in real-world systems. R is introduced\nSpring 2026 Syllabus\nDATS2103. Data Mining for Data Science in Python. 3 Credits\nBasic concepts, principles, methods, implementation techniques, and applications of data mining, with a focus on Python and data mining algorithms. Overview of data mining techniques and skills to explore and analyze data.\nPrerequisites: CSCI 1012, DATS 1001, MATH 1232, and (STAT 1051 or STAT 1053 or STAT 1111 or STAT 1127).\nSpring 2026 Syllabus\nFall 2025 Syllabus"
   },
   {
     "objectID": "courses.html#dats2103---data-mining-for-data-science-in-python",
     "href": "courses.html#dats2103---data-mining-for-data-science-in-python",
     "title": "Courses taught at GW",
+    "section": "DATS2103 - Data Mining for Data Science in Python",
+    "text": "DATS2103 - Data Mining for Data Science in Python\nSpring 2026 Syllabus\nFall 2025 Syllabus"
+  },
+  {
+    "objectID": "courses.html#dats1001---data-science-for-all",
+    "href": "courses.html#dats1001---data-science-for-all",
+    "title": "Courses taught at GW",
     "section": "",
-    "text": "Fall 2025\nSyllabus\nPDFs/Syllabus-DATS2103-Fall2025.pdf"
+    "text": "Spring 2026 Syllabus"
   }
 ]
