@@ -1,0 +1,8 @@
+---
+title: "Courses taught at GW"
+---
+
+## DATS2103 - Data Mining for Data Science in Python
+
+Fall 2025 [Syllabus](PDFs/Syllabus-DATS2103-Fall2025.pdf)
+
